@@ -1,0 +1,19 @@
+{
+  "name": "simple-middleware",
+  "version": "1.0.0",
+  "description": "simple middleware connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "middleware"
+  ],
+  "author": "manaswini sasmal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
