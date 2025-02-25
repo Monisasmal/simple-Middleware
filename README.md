@@ -15,4 +15,5 @@ This project implements a **logging middleware** in an Express.js application. T
 ⏩ Request body (for POST requests)
 
 **Screen Shot**
-![image](https://github.com/user-attachments/assets/f7f3c921-804f-436f-b25d-801497735573)
+![image](https://github.com/user-attachments/assets/82185325-2ba7-4f17-9f25-e8d32f10903d)
+
